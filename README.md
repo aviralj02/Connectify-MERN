@@ -1,7 +1,7 @@
 # 💭 Connectify
-Connectify is a responsive Full-Stack Application using MERN Stack which allows users to connect with people. They can upload their posts, like them and can add friends to their friend list.\
+Connectify is a responsive Full-Stack Application using MERN Stack which allows users to connect with people. They can upload their posts, like them and can add friends to their friend list.
 
-![HomePage](.\client\public\assets\screenshot.png)
+![HomePage](./client/public/assets/screenshot.png)
 
 ## ⚒ Functionalities
 * Dark/Light modes.
@@ -21,7 +21,7 @@ Password: test
 ![MongoDB](https://www.mongodb.com/)
 ![Express.js](https://expressjs.com/)
 ![React](https://react.dev/)
-![NodeJS](https://nodejs.org/en)
+![[NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 
 ## Local Setup & Installation
 * Clone the repo

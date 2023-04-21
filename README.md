@@ -1,7 +1,7 @@
 # 💭 Connectify
-Connectify is a responsive Full-Stack Application using MERN Stack which allows users to connect with people. They can upload their posts, like them and can add friends to their friend list.\
+Connectify is a responsive Full-Stack Application using MERN Stack which allows users to connect with people. They can upload their posts, like them and can add friends to their friend list.
 
-![HomePage](.\client\public\assets\screenshot.png)
+![HomePage](./client/public/assets/screenshot.png)
 
 ## ⚒ Functionalities
 * Dark/Light modes.
@@ -18,10 +18,17 @@ Password: test
 ```
 
 ## 👨‍💻 Built With
-![MongoDB](https://www.mongodb.com/)
-![Express.js](https://expressjs.com/)
-![React](https://react.dev/)
-![NodeJS](https://nodejs.org/en)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+<br />
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
+<br />
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+<br />
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
+<br />
+[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+<br />
+[![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 
 ## Local Setup & Installation
 * Clone the repo

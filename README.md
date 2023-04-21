@@ -18,7 +18,7 @@ Password: test
 ```
 
 ## 👨‍💻 Built With
-[![MongoDB][https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white]][https://www.mongodb.com/]
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 <br />
 [![Express.js][https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB]][https://expressjs.com/]
 <br />

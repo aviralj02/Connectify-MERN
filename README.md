@@ -18,11 +18,13 @@ Password: test
 ```
 
 ## 👨‍💻 Built With
-![MongoDB](https://www.mongodb.com/)
-![Express.js](https://expressjs.com/)
-![React](https://react.dev/)
+[![MongoDB][https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white]][https://www.mongodb.com/]
 <br />
-![NodeJS][https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white]][https://nodejs.org/en]
+[![Express.js][https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB]][https://expressjs.com/]
+<br />
+[![React][https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB]][https://react.dev/]
+<br />
+[![NodeJS][https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white]][https://nodejs.org/en]
 
 ## Local Setup & Installation
 * Clone the repo

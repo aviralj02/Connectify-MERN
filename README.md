@@ -10,7 +10,7 @@ Connectify is a responsive Full-Stack Application using MERN Stack which allows 
 * Session storage with redux persist.
 
 ## 🔗 Link to the Project
-To visit live version, [click here]()
+To visit live version, [click here](https://connectify-aviralj02.vercel.app/)
 Use one of the test users to see the authenticated version:
 ```
 Email: test@test.com
@@ -29,6 +29,10 @@ Password: test
 [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 <br />
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
+
+## Deployment
+* Frontend deployed on [Vercel](https://vercel.com)
+* Backend deployed on [Render](https://render.com/)
 
 ## Local Setup & Installation
 * Clone the repo

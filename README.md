@@ -11,6 +11,7 @@ Connectify is a responsive Full-Stack Application using MERN Stack which allows 
 
 ## 🔗 Link to the Project
 To visit live version, [click here](https://connectify-aviralj02.vercel.app/)
+<br />
 Use one of the test users to see the authenticated version:
 ```
 Email: test@test.com

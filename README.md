@@ -44,6 +44,12 @@ $ git clone https://github.com/aviralj02/Connectify-MERN.git
 ```
 $ npm install
 ```
+* Create a .env file for server and fill up the following details
+```
+MONGO_URL=
+JWT_SECRET=
+PORT=
+```
 * Run Project in localhost
 ```
 $ cd client
